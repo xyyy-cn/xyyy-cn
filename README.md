@@ -4,7 +4,8 @@
 
 <p align="center">
   <samp>
-    This account was active from <b>2021.2</b> to <b>2025.12</b>.
+    This account was mainly active from <b>2021.2</b> to <b>2024.12</b>.
+    And This account is deprecated After <b>2025</b>.
   </samp>
 </p>
 
